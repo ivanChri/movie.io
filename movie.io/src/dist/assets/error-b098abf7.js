@@ -1,0 +1,1 @@
+import{j as e,C as a,c as s,T as t}from"./vendor-31e5e4f2.js";function h(r){return e(a,{className:"error-message",height:"600px",width:"100%",p:"5",m:"auto",children:e(s,{m:"auto",height:"100%",p:"2",children:e(t,{as:"h2",fontSize:["1.5rem","2rem","2.5rem"],children:r.message})})})}export{h as default};
